@@ -1,0 +1,18 @@
+.container-time {
+  padding: 32px;
+  text-align: center;
+}
+
+.container-time h3 {
+  font-size: 32px;
+  padding-bottom: 4px;
+  display: inline-block;
+  border-bottom: 4px solid;
+}
+
+.container-time .collaborators {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 32px;  
+  justify-content: space-around;
+}
