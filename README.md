@@ -6,8 +6,8 @@ O desafio consiste em desenvolver um organograma usando com referencia um layout
 
 ## 📚 Funcionalidades
 
-- Adicionar os colaboradores conforme seus respctivos times.
-- Renderizar os componnentes usando cracteristicas específicias (cor primária, cor secundária, nome, url da imagem...).
+- Adicionar os colaboradores conforme seus respectivos times.
+- Renderizar os componentes usando características específicias de cada time (cor primária, cor secundária, nome, url da imagem...).
 
 ## 📸 Screenshots
 

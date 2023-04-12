@@ -16,3 +16,5 @@ const Collaborator = (props) => {
 }
 
 export default Collaborator;
+
+// https://user-images.githubusercontent.com/34304319/231544506-e232912c-70d9-4ba8-85a4-f699adc6ccbb.png
