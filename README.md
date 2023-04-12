@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 
-O desafio consiste em desenvolver um organograma usando com referencia um layout do figma[LINK](https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134-128&t=Sb5bLaqjr9QhLLkA-0)
+O desafio consiste em desenvolver um organograma usando com referencia um layout do figma([LINK](https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134-128&t=Sb5bLaqjr9QhLLkA-0))
 
 ## 📚 Funcionalidades
 
@@ -11,7 +11,7 @@ O desafio consiste em desenvolver um organograma usando com referencia um layout
 
 ## 📸 Screenshots
 
-<img src="https://user-images.githubusercontent.com/34304319/231543114-45f0913d-54ee-4917-87e0-861d38cd72ab.gif" height="400" width="100%">
+<img src="https://user-images.githubusercontent.com/34304319/231551276-364871aa-52c6-4ccc-b790-4fda5e685397.gif" height="400" width="100%">
 
 ## 🔧 Tecnologias utilizadas
 

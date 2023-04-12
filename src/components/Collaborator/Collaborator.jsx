@@ -1,6 +1,9 @@
 import "./Collaborator.css"
 
 const Collaborator = (props) => {
+  console.log(props.urlImage)
+
+
   return(
     <div className="collaborator" >
       <div className="header" style={{backgroundColor: props.primaryColor}}>
