@@ -1,0 +1,30 @@
+footer {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #6278F7;
+}
+
+footer span {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer .social-media {
+  flex: 1;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-media img {
+  max-width: 100%;
+}
+
+.social-media img:hover {
+  transform: scale(1.1);
+}

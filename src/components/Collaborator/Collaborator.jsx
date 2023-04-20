@@ -1,13 +1,12 @@
 import "./Collaborator.css"
 
 const Collaborator = (props) => {
-  console.log(props.urlImage)
-
+  const defaultImage = "https://cdn.icon-icons.com/icons2/2468/PNG/512/user_kids_avatar_user_profile_icon_149314.png"
 
   return(
     <div className="collaborator" >
       <div className="header" style={{backgroundColor: props.primaryColor}}>
-        <img src={props.urlImage} alt="Foto do perfil" />
+        <img src={props.urlImage == "" ? defaultImage : props.urlImage} alt="Foto do perfil" />
       </div>
 
       <div className="footer">
@@ -19,5 +18,3 @@ const Collaborator = (props) => {
 }
 
 export default Collaborator;
-
-// https://user-images.githubusercontent.com/34304319/231544506-e232912c-70d9-4ba8-85a4-f699adc6ccbb.png
